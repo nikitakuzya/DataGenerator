@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OIPNumSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3;2;3;47;16;17;18;19;20;13300;41;4;5;6;7;8;9;10;11;12;13;14;15;100;50;11064;55;</Value>
+    </Setting>
+    <Setting Name="TimerAdressSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8000;8096;9632;9760;9792;10112;10144;10400;9792;9792;</Value>
+    </Setting>
+    <Setting Name="TimerListSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Станц Защ;Защ НА;Защ Рез;twList4;twNA;twCommTimes;twZDV;twVS;twASUPTzoneFoam;twASUPTzoneWater;</Value>
+    </Setting>
+    <Setting Name="TimerStrSettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4;4;4;2;2;2;2;2;2;2;</Value>
+    </Setting>
+    <Setting Name="Gen_OIP_NoGap" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DB_version" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="DB_useRegSettings" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DB_usePasswordCrypt" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DB_Provider" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SQLOLEDB</Value>
+    </Setting>
+    <Setting Name="DB_DataSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="DB_InitialCatalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OperMess</Value>
+    </Setting>
+    <Setting Name="DB_UserID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="DB_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="Gen_OIP_NoGapPlaceValue" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="startRow_ZDV" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="startRow_VS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="startRow_StZash" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="startRow_ZNA" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="Quntity_twCommTimes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

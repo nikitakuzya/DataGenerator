@@ -1,0 +1,88 @@
+D:\_Develop\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+D:\_Develop\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+D:\_Develop\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+D:\_Develop\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+D:\_Develop\Source\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+D:\_Develop\Source\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+D:\_Develop\Source\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+D:\_Develop\Source\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Разработка\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+C:\Разработка пиложений\DataGenerator\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.18\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.19\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.20\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\bin\Release\DataGenerator.txt
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe.config
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\bin\Release\DataGenerator.exe
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.csprojResolveAssemblyReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.ResolveComReference.cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.AboutBox.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.MainForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.Properties.Resources.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.SettingsForm.resources
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.csproj.GenerateResource.Cache
+C:\Разработка приложений\DataGenerator\Source DataGenerator 1.3.22\DataGenerator\DataGenerator\obj\Release\DataGenerator.exe

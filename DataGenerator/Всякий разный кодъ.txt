@@ -1,0 +1,159 @@
+﻿        private object[,] DeleteRow(object[,] table, int numDelRow)
+        {
+            int strings = table.GetLength(0);
+            int columns = table.GetLength(1);
+            dynamic temp= new object[strings - 1, columns];
+            int i;
+            int index = 1;
+            for (i = 1; i < strings; i++)
+            {
+                if (i != numDelRow)
+                {
+                    int j;
+                    for (j = 1; j < columns; j++)
+                    {
+                        temp[index, j] = table[i, j];
+                    }
+                    index++;
+                }
+                else
+                {
+                    continue;
+                }
+            }
+            return temp;
+        }
+
+' Получить Message.Kind из строки
+Function GetMessageKind(strKind As String) As Integer
+Dim iResult As Integer
+  iResult = -1
+  If (strKind = "Нет") Then
+    iResult = 0
+  ElseIf (strKind = "С") Then
+    iResult = 1
+  ElseIf (strKind = "C") Then
+    iResult = 1
+  End If
+  GetMessageKind = iResult
+End Function
+
+' Получить Message.Priority из строки
+Function GetMessagePriority(strPriority As String) As Integer
+Dim iResult As Integer
+  iResult = -1
+  If ((strPriority = "Нормальный") Or (strPriority = "Норм")) Then
+    iResult = 1
+  ElseIf ((strPriority = "Низкий") Or (strPriority = "Низ")) Then
+    iResult = 2
+  ElseIf ((strPriority = "Средний") Or (strPriority = "Сред")) Then
+    iResult = 3
+  ElseIf ((strPriority = "Высокий") Or (strPriority = "Высш")) Then
+    iResult = 4
+  End If
+  GetMessagePriority = iResult
+End Function
+
+' Получить Message.Sound из строки
+Function GetMessageSound(strSound As String) As Integer
+Dim iResult As Integer
+  iResult = -1
+  If (strSound = "Нет") Then
+    iResult = 0
+  ElseIf (strSound = "Однокр") Then
+    iResult = 1
+  ElseIf (strSound = "Многокр") Then
+    iResult = 2
+  End If
+  GetMessageSound = iResult
+End Function
+
+' Получить Message.IdSound из строки
+Function GetMessageIdSound(strSound As String) As Integer
+Dim iResult As Integer
+  iResult = -1
+  If (strSound = "Нет") Then
+    iResult = 1
+  ElseIf (strSound = "Однокр") Then
+    iResult = 1
+  ElseIf (strSound = "Многокр") Then
+    iResult = 2
+  End If
+  GetMessageIdSound = iResult
+End Function
+
+' Получить Message.IsAck из строки
+Function GetMessageIsAck(strPriority As String) As Integer
+Dim iResult As Integer
+  iResult = -1
+  If ((strPriority = "Нормальный") Or (strPriority = "Норм")) Then
+    iResult = 0
+  ElseIf ((strPriority = "Низкий") Or (strPriority = "Низ")) Then
+    iResult = 0
+  ElseIf ((strPriority = "Средний") Or (strPriority = "Сред")) Then
+    iResult = 1
+  ElseIf ((strPriority = "Высокий") Or (strPriority = "Высш")) Then
+    iResult = 1
+  End If
+  GetMessageIsAck = iResult
+End Function
+
+' Получить Message.IdColor из строки
+Function GetMessageIdColor(strPriority As String) As Integer
+Dim iResult As Integer
+  iResult = -1
+  If ((strPriority = "Нормальный") Or (strPriority = "Норм")) Then   ' 1
+    iResult = 4  ' белый
+  ElseIf ((strPriority = "Низкий") Or (strPriority = "Низ")) Then    ' 2
+    iResult = 1  ' зелёный
+  ElseIf ((strPriority = "Средний") Or (strPriority = "Сред")) Then  ' 3
+    iResult = 2  ' желтый
+  ElseIf ((strPriority = "Высокий") Or (strPriority = "Высш")) Then  ' 4
+    iResult = 3  ' красный
+  End If
+  GetMessageIdColor = iResult
+End Function
+
+
+
+            #region 
+			//поэлементное добавление
+            //for (int i = (int) startRow; i < endRow; i++)
+            //{
+            //    if (sheetOip.Cells[i, numericUpDown_Oip_ParamName.Value].Value == null) continue;
+            //    var row = Data.DataSet.Tables["OIP"].NewRow();
+            //    var str = new[]
+            //    {
+            //        j.ToString(),
+            //        sheetOip.Cells[i, numericUpDown_Oip_ParamName.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_ParamID.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Unit.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_ScaleBeginning.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust0.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust1.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust2.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust3.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust4.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust5.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust6.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust7.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust8.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust9.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust10.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Ust11.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_ScaleEnd.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Hist.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Delta.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_LimSpd.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_AdressBeginning.Value].Value,
+            //        sheetOip.Cells[i, numericUpDown_Oip_Place.Value].Value
+            //    };
+            //    //if (str[1] != null && str[2] != null)
+            //    //{
+            //        row.ItemArray = str;
+            //        Data.OipTable.Rows.Add(row);
+            //        j++;
+            //    //}
+            //}
+
+            #endregion

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsWrapper xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OIPNumSettings>3; 2; 3; 47; 16; 17; 18; 19; 20; 13300; 41; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 100; 50; 11064; 55;</OIPNumSettings>
+  <TimerAdressSettings>8000;8096;9632;9760;9792;10112;10144;10400;9792;9792;</TimerAdressSettings>
+  <TimerListSettings>Станц Защ;Защ НА;Защ Рез;twList4;twNA;twCommTimes;twZDV;twVS;twASUPTzoneFoam;twASUPTzoneWater;</TimerListSettings>
+  <TimerStrSettings>4;4;4;2;2;2;2;2;2;2;</TimerStrSettings>
+  <Gen_OIP_NoGap>false</Gen_OIP_NoGap>
+  <DB_version>9</DB_version>
+  <DB_useRegSettings>true</DB_useRegSettings>
+  <DB_usePasswordCrypt>true</DB_usePasswordCrypt>
+  <DB_Provider>SQLOLEDB</DB_Provider>
+  <DB_DataSource>localhost\SQLEXPRESS</DB_DataSource>
+  <DB_InitialCatalog>OperMess</DB_InitialCatalog>
+  <DB_UserID>sa</DB_UserID>
+  <DB_Password>sa</DB_Password>
+  <Gen_OIP_NoGapPlaceValue>1</Gen_OIP_NoGapPlaceValue>
+  <startRow_ZDV>4</startRow_ZDV>
+  <startRow_VS>3</startRow_VS>
+  <startRow_StZash>4</startRow_StZash>
+  <startRow_ZNA>3</startRow_ZNA>
+  <Quntity_twCommTimes>20</Quntity_twCommTimes>
+  <UseAdrBeginning>true</UseAdrBeginning>
+</SettingsWrapper>
